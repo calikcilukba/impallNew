@@ -1,0 +1,10 @@
+.test {
+    background-image: url("/assets/carosel1.jpg");
+    margin: auto;
+    background-size: 1150px 500px;
+    width: 1130px;
+    height: 500px;
+}
+a{
+    text-decoration: none;
+}
